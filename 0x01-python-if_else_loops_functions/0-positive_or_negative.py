@@ -1,4 +1,4 @@
-#!/usr/bin/python3:import random
+#!/usr/bin/python3
 number = random.randint(-10, 10)
 if number > 0:
     print(f"{number:d} is positive")
